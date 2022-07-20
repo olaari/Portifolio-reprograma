@@ -1,0 +1,22 @@
+.bio {
+    display: flex;
+    width: 50%;
+    margin: 0 auto;
+    padding: 100px;
+    text-align: justify;
+}
+
+.foto-bio {
+    width: 200px;
+    margin-right: 50px;
+}
+
+.bio>div>h2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.bio>div>p {
+
+    margin-top: 30px;
+}

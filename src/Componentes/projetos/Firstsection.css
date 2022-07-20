@@ -1,0 +1,50 @@
+.container-projetos {
+    background-color: #B84996;
+    width: 800px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 60px;
+    border-radius: 20px;
+}
+
+.titulo-projeto {
+    text-align: center;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.caixa-projeto {
+    justify-content: center;
+    align-items: center;
+    margin: 40px;
+    border: 1px solid;
+    padding: 60px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.caixa-projeto>img {
+    width: 600px;
+}
+
+.caixa-projeto>h2 {
+    margin: 10px;
+    font-size: 25px;
+}
+
+.caixa-projeto>p {
+    margin: 20px;
+}
+
+.caixa-projeto>a {
+    text-decoration: none;
+    color: white;
+    background-color: #b572a1;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+.caixa-projeto>a:hover {
+    text-decoration: underline;
+}
